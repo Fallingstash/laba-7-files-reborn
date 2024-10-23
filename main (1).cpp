@@ -1,3 +1,6 @@
+// СОЛДАТОВ А. М.
+// ПИ-241
+// Задание : Работа с файлами; Вариант 10
 #include <fstream>
 #include <iostream>
 #include <string>
